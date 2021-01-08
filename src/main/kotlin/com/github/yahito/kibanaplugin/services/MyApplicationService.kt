@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.yahito.kibanaplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.yahito.kibanaplugin.MyBundle
 
 class MyApplicationService {
 
